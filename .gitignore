@@ -1,0 +1,7 @@
+requirements.txt
+env/**
+.env/**
+venv/**
+.venv/**
+updateImages.py
+
