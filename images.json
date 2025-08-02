@@ -1,306 +1,306 @@
 {
     "2to4": [
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/ball.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/ball.png",
             "promptES": "Pelota con rayas",
             "promptEN": "Ball with stripes"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/balloon.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/balloon.png",
             "promptES": "Globo aerostático",
             "promptEN": "Hot air balloon"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/bear.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/bear.png",
             "promptES": "Oso abrazando un corazón",
             "promptEN": "Bear hugging a heart"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/butterfly.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/butterfly.png",
             "promptES": "Mariposa con alas redondeadas",
             "promptEN": "Butterfly with rounded wings"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/car.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/car.png",
             "promptES": "Auto con ruedas grandes",
             "promptEN": "Car with big wheels"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/cat.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/cat.png",
             "promptES": "Gato durmiendo en una cama",
             "promptEN": "Cat sleeping on a bed"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/dog.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/dog.png",
             "promptES": "Perro sentado feliz",
             "promptEN": "Happy sitting dog"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/drums.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/drums.png",
             "promptES": "Tambor con baquetas",
             "promptEN": "Drum with drumsticks"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/duck.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/duck.png",
             "promptES": "Pato flotando en el agua",
             "promptEN": "Duck floating on water"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/elephant.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/elephant.png",
             "promptES": "Elefante grande caminando",
             "promptEN": "Big walking elephant"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/fish.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/fish.png",
             "promptES": "Pez nadando en el agua",
             "promptEN": "Fish swimming in water"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/flower.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/flower.png",
             "promptES": "Flor grande con pétalos simples",
             "promptEN": "Big flower with simple petals"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/girrafe.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/girrafe.png",
             "promptES": "Jirafa de cuello largo",
             "promptEN": "Long-neck giraffe"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/house.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/house.png",
             "promptES": "Casa con puerta y ventana",
             "promptEN": "House with door and window"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/moon.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/moon.png",
             "promptES": "Luna y estrellas",
             "promptEN": "Moon and stars"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/plane.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/plane.png",
             "promptES": "Avión volando entre nubes",
             "promptEN": "Plane flying among clouds"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/rocket.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/rocket.png",
             "promptES": "Cohete despegando",
             "promptEN": "Rocket launching"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/sun.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/sun.png",
             "promptES": "Sol sonriente con nubes",
             "promptEN": "Smiling sun with clouds"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/three.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/three.png",
             "promptES": "Árbol con frutas redondas",
             "promptEN": "Tree with round fruits"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images2/train.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image4/train.png",
             "promptES": "Tren con tres vagones",
             "promptEN": "Train with three wagons"
         }
     ],
     "5to7": [
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/dragon.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/dragon.png",
             "promptES": "Dragón amigable sacando la lengua",
             "promptEN": "Friendly dragon sticking out its tongue"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/mermaid.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/mermaid.png",
             "promptES": "Sirena sentada en una roca",
             "promptEN": "Mermaid sitting on a rock"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/firetruck.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/firetruck.png",
             "promptES": "Camión de bomberos con escalera",
             "promptEN": "Fire truck with a ladder"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/castle.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/castle.png",
             "promptES": "Castillo con banderas",
             "promptEN": "Castle with flags"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/bee.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/bee.png",
             "promptES": "Abeja volando sobre flores",
             "promptEN": "Bee flying over flowers"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/robot.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/robot.png",
             "promptES": "Robot con brazos mecánicos",
             "promptEN": "Robot with mechanical arms"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/owl.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/owl.png",
             "promptES": "Búho en una rama",
             "promptEN": "Owl on a branch"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/knight.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/knight.png",
             "promptES": "Caballero con escudo y casco",
             "promptEN": "Knight with shield and helmet"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/princess.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/princess.png",
             "promptES": "Princesa con vestido grande",
             "promptEN": "Princess with a big dress"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/train.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/train.png",
             "promptES": "Tren con pasajeros",
             "promptEN": "Train with passengers"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/balloon.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/balloon.png",
             "promptES": "Globo de feria con caritas",
             "promptEN": "Fair balloon with smiley faces"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/unicorn.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/unicorn.png",
             "promptES": "Unicornio caminando",
             "promptEN": "Walking unicorn"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/dolphin.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/dolphin.png",
             "promptES": "Delfín saltando del mar",
             "promptEN": "Dolphin jumping from the sea"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/picnic.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/picnic.png",
             "promptES": "Escena de picnic",
             "promptEN": "Picnic scene"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/rocket.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/rocket.png",
             "promptES": "Cohete con ventanas y llamas",
             "promptEN": "Rocket with windows and flames"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/fruits.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/fruits.png",
             "promptES": "Grupo de frutas sonrientes",
             "promptEN": "Group of smiling fruits"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/planet.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/planet.png",
             "promptES": "Planeta con anillos y estrellas",
             "promptEN": "Planet with rings and stars"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/sloth.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/sloth.png",
             "promptES": "Perezoso colgado de un árbol",
             "promptEN": "Sloth hanging from a tree"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/clown.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/clown.png",
             "promptES": "Payaso lanzando globos",
             "promptEN": "Clown throwing balloons"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images5/crab.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image7/crab.png",
             "promptES": "Cangrejo en la playa",
             "promptEN": "Crab on the beach"
         }
     ],
     "8plus": [
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/dragon.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/dragon.png",
             "promptES": "Dragón oriental con escamas",
             "promptEN": "Oriental dragon with scales"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/forest.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/forest.png",
             "promptES": "Bosque con diferentes animales",
             "promptEN": "Forest with different animals"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/castle.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/castle.png",
             "promptES": "Castillo encantado con árboles y murciélagos",
             "promptEN": "Haunted castle with trees and bats"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/shark.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/shark.png",
             "promptES": "Tiburón nadando entre algas",
             "promptEN": "Shark swimming among seaweed"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/astronautcat.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/astronautcat.png",
             "promptES": "Gato astronauta flotando en el espacio",
             "promptEN": "Astronaut cat floating in space"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/magicforest.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/magicforest.png",
             "promptES": "Bosque mágico con hongos y hadas",
             "promptEN": "Magic forest with mushrooms and fairies"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/schoolbus.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/schoolbus.png",
             "promptES": "Autobús escolar con niños",
             "promptEN": "School bus with children"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/market.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/market.png",
             "promptES": "Mercado con frutas y puestos",
             "promptEN": "Market with fruits and stalls"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/city.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/city.png",
             "promptES": "Ciudad con edificios y autos",
             "promptEN": "City with buildings and cars"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/tiger.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/tiger.png",
             "promptES": "Tigre en la selva con detalles de pelaje",
             "promptEN": "Tiger in the jungle with fur details"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/circus.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/circus.png",
             "promptES": "Escena de circo con trapecistas",
             "promptEN": "Circus scene with trapeze artists"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/spaceship.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/spaceship.png",
             "promptES": "Nave espacial con paneles y detalles",
             "promptEN": "Spaceship with panels and details"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/fox.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/fox.png",
             "promptES": "Zorro en medio de un campo",
             "promptEN": "Fox in the middle of a field"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/bike.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/bike.png",
             "promptES": "Bicicleta con canasto y flores",
             "promptEN": "Bicycle with basket and flowers"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/garden.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/garden.png",
             "promptES": "Jardín con mariposas y detalles florales",
             "promptEN": "Garden with butterflies and floral details"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/dinosaur.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/dinosaur.png",
             "promptES": "Dinosaurio en un volcán",
             "promptEN": "Dinosaur on a volcano"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/park.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/park.png",
             "promptES": "Escena de parque con niños jugando",
             "promptEN": "Park scene with kids playing"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/farm.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/farm.png",
             "promptES": "Granja con vacas, gallinas y tractor",
             "promptEN": "Farm with cows, chickens and tractor"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/treasuremap.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/treasuremap.png",
             "promptES": "Mapa del tesoro con pistas",
             "promptEN": "Treasure map with clues"
         },
         {
-            "url": "https://raw.githubusercontent.com/ofcbujin/magicdraw/main/images8/koi.png",
+            "url": "https://ofcbujin.github.io/magicdraw/image8/koi.png",
             "promptES": "Pez koi en un estanque con flores de loto",
             "promptEN": "Koi fish in a pond with lotus flowers"
         }
